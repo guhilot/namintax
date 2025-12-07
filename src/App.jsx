@@ -27,8 +27,8 @@ function App() {
                 complex VAT regulations and optimize your tax strategy.
               </p>
               <div className="hero-buttons">
-                <button className="btn btn-primary">Get Started</button>
-                <button className="btn btn-secondary">Learn More</button>
+                <button className="btn btn-primary" aria-label="Get started with tax consulting services">Get Started</button>
+                <button className="btn btn-secondary" aria-label="Learn more about our services">Learn More</button>
               </div>
             </div>
           </div>
@@ -79,7 +79,7 @@ function App() {
             <p className="contact-text">
               Ready to optimize your tax strategy? Contact us today for a consultation.
             </p>
-            <button className="btn btn-primary">Contact Us</button>
+            <button className="btn btn-primary" aria-label="Contact us for a consultation">Contact Us</button>
           </div>
         </section>
       </main>
