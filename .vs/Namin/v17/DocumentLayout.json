@@ -1,73 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vsguhilo\\source\\website\\namintax\\",
+  "WorkspaceRootPath": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\backgroundrotator.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\backgroundrotator.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\components\\backgroundrotator.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\components\\services.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.server\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.server\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|solutionrelative:namin.server\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|solutionrelative:namin.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|solutionrelative:namin.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.server\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.server\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|solutionrelative:namin.server\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\contexts\\languagecontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\contexts\\languagecontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\contexts\\languagecontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DFDBC1CF-E790-47B3-BDD2-8EC0B65A42F3}|Namin.Server\\Namin.Server.csproj|solutionrelative:namin.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\languageswitcher.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\languageswitcher.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\components\\languageswitcher.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|c:\\users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{27FCA7D3-8CE6-756B-1DB3-BE168E1D3160}|namin.client\\namin.client.esproj|solutionrelative:namin.client\\src\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -78,227 +82,221 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\package.json",
+              "RelativeDocumentMoniker": "namin.client\\package.json",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\package.json*",
+              "RelativeToolTip": "namin.client\\package.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T06:59:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BackgroundRotator.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\BackgroundRotator.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\BackgroundRotator.jsx",
               "RelativeDocumentMoniker": "namin.client\\src\\components\\BackgroundRotator.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\BackgroundRotator.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\BackgroundRotator.jsx",
               "RelativeToolTip": "namin.client\\src\\components\\BackgroundRotator.jsx",
-              "ViewState": "AgIAACMAAAAAAAAAAAAywCkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-12-15T02:22:48.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Home.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\Home.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\Home.jsx",
               "RelativeDocumentMoniker": "namin.client\\src\\components\\Home.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\Home.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\Home.jsx",
               "RelativeToolTip": "namin.client\\src\\components\\Home.jsx",
               "ViewState": "AgIAABEAAAAAAAAAAAAywA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-14T19:14:00.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Contact.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\Contact.jsx",
-              "RelativeDocumentMoniker": "namin.client\\src\\components\\Contact.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\Contact.jsx",
-              "RelativeToolTip": "namin.client\\src\\components\\Contact.jsx",
-              "ViewState": "AgIAADsAAAAAAAAAAAAywEEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-08T07:19:59.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Services.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\Services.jsx",
-              "RelativeDocumentMoniker": "namin.client\\src\\components\\Services.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\Services.jsx",
-              "RelativeToolTip": "namin.client\\src\\components\\Services.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-14T18:58:39.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T19:14:00.527Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "About.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\About.jsx",
-              "RelativeDocumentMoniker": "namin.client\\src\\components\\About.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\About.jsx",
-              "RelativeToolTip": "namin.client\\src\\components\\About.jsx",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAywAgAAAAXAAAAAAAAAA==",
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\Contact.jsx",
+              "RelativeDocumentMoniker": "namin.client\\src\\components\\Contact.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\Contact.jsx",
+              "RelativeToolTip": "namin.client\\src\\components\\Contact.jsx",
+              "ViewState": "AgIAADsAAAAAAAAAAAAywEEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-14T18:56:04.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T07:19:59.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\Services.jsx",
+              "RelativeDocumentMoniker": "namin.client\\src\\components\\Services.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\Services.jsx",
+              "RelativeToolTip": "namin.client\\src\\components\\Services.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-14T18:58:39.241Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "namin.client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\App.jsx",
-              "RelativeToolTip": "namin.client\\src\\App.jsx",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\About.jsx",
+              "RelativeDocumentMoniker": "namin.client\\src\\components\\About.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\About.jsx",
+              "RelativeToolTip": "namin.client\\src\\components\\About.jsx",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-08T06:59:35.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T18:56:04.491Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "NavBar.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\NavBar.jsx",
-              "RelativeDocumentMoniker": "namin.client\\src\\components\\NavBar.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\NavBar.jsx",
-              "RelativeToolTip": "namin.client\\src\\components\\NavBar.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "namin.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\App.jsx",
+              "RelativeToolTip": "namin.client\\src\\App.jsx",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-08T06:57:40.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Program.cs",
-              "RelativeDocumentMoniker": "Namin.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Program.cs",
-              "RelativeToolTip": "Namin.Server\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T23:22:33.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LanguageContext.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\contexts\\LanguageContext.jsx",
-              "RelativeDocumentMoniker": "namin.client\\src\\contexts\\LanguageContext.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\contexts\\LanguageContext.jsx",
-              "RelativeToolTip": "namin.client\\src\\contexts\\LanguageContext.jsx",
-              "ViewState": "AgIAACwAAAAAAAAAAADwvzcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-14T20:46:55.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T06:59:35.849Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Namin.Server\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Namin.Server\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T22:39:59.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Namin.Server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Namin.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA/wB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T00:53:11.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CHANGELOG.md",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\CHANGELOG.md",
-              "RelativeDocumentMoniker": "namin.client\\CHANGELOG.md",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\CHANGELOG.md",
-              "RelativeToolTip": "namin.client\\CHANGELOG.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-15T01:14:29.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "vite.config.js",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\vite.config.js",
-              "RelativeDocumentMoniker": "namin.client\\vite.config.js",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\vite.config.js",
-              "RelativeToolTip": "namin.client\\vite.config.js",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwDUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-14T23:12:44.528Z",
-              "EditorCaption": ""
+              "Title": "NavBar.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\NavBar.jsx",
+              "RelativeDocumentMoniker": "namin.client\\src\\components\\NavBar.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\NavBar.jsx",
+              "RelativeToolTip": "namin.client\\src\\components\\NavBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-08T06:57:40.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Contact.cs",
-              "RelativeDocumentMoniker": "Namin.Server\\Contact.cs",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Contact.cs",
-              "RelativeToolTip": "Namin.Server\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Namin.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Program.cs",
+              "RelativeToolTip": "Namin.Server\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T22:37:10.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T23:22:33.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LanguageContext.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\contexts\\LanguageContext.jsx",
+              "RelativeDocumentMoniker": "namin.client\\src\\contexts\\LanguageContext.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\contexts\\LanguageContext.jsx",
+              "RelativeToolTip": "namin.client\\src\\contexts\\LanguageContext.jsx",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-14T20:46:55.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Namin.Server\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Namin.Server\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:39:59.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Namin.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Namin.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:53:11.938Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Namin.Server\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Namin.Server\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-14T22:56:30.433Z",
-              "EditorCaption": ""
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "namin.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\CHANGELOG.md",
+              "RelativeToolTip": "namin.client\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-15T01:14:29.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\vite.config.js",
+              "RelativeDocumentMoniker": "namin.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\vite.config.js",
+              "RelativeToolTip": "namin.client\\vite.config.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-14T23:12:44.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Contact.cs",
+              "RelativeDocumentMoniker": "Namin.Server\\Contact.cs",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Contact.cs",
+              "RelativeToolTip": "Namin.Server\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:37:10.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "LanguageSwitcher.jsx",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\LanguageSwitcher.jsx",
-              "RelativeDocumentMoniker": "namin.client\\src\\components\\LanguageSwitcher.jsx",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\LanguageSwitcher.jsx",
-              "RelativeToolTip": "namin.client\\src\\components\\LanguageSwitcher.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-14T20:48:12.52Z",
-              "EditorCaption": ""
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Namin.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Namin.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T22:56:30.433Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "LanguageSwitcher.jsx",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\LanguageSwitcher.jsx",
+              "RelativeDocumentMoniker": "namin.client\\src\\components\\LanguageSwitcher.jsx",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\LanguageSwitcher.jsx",
+              "RelativeToolTip": "namin.client\\src\\components\\LanguageSwitcher.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-14T20:48:12.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "NavBar.css",
-              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\NavBar.css",
+              "DocumentMoniker": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\NavBar.css",
               "RelativeDocumentMoniker": "namin.client\\src\\components\\NavBar.css",
-              "ToolTip": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\src\\components\\NavBar.css",
+              "ToolTip": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\namin.client\\src\\components\\NavBar.css",
               "RelativeToolTip": "namin.client\\src\\components\\NavBar.css",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAFQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

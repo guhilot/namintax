@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Namin.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df83c0875abf5ee0a24553c8e51063400b2d22f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cec9dcd3b175d5ee74157fd01f9d274e9c3705dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Namin.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Namin.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

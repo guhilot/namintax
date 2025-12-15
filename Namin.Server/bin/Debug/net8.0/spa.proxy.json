@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:58969",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\..\\namin.client",
+"WorkingDirectory": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\..\\namin.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

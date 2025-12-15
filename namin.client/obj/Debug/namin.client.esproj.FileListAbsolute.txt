@@ -1,1 +1,2 @@
 C:\Users\vsguhilo\source\website\namintax\namin.client\obj\Debug\namin.client.esproj.CoreCompileInputs.cache
+C:\Users\vsguhilo\source\ws\namintax\namin.client\obj\Debug\namin.client.esproj.CoreCompileInputs.cache
