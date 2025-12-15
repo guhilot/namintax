@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Namin.Server.csproj",
+      "projectUniqueName": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Namin.Server.csproj",
       "projectName": "Namin.Server",
-      "projectPath": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\Namin.Server.csproj",
+      "projectPath": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\Namin.Server.csproj",
       "packagesPath": "C:\\Users\\vsguhilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vsguhilo\\source\\website\\namintax\\Namin.Server\\obj\\",
+      "outputPath": "C:\\Users\\vsguhilo\\source\\ws\\namintax\\Namin.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
