@@ -12,7 +12,7 @@ const NavBar = () => {
         <nav className="navbar">
             <ul className="navbar-list">
                 <li className="navbar-item left">
-                    <Link to="/">
+                    <Link to="/namintax/">
                         <img
                             src={logo}
                             alt="Namin Tax Accounting Logo"
@@ -22,13 +22,13 @@ const NavBar = () => {
                 </li>
                 <div className="navbar-right">
                     <li className="navbar-item">
-                        <Link to="/about">{t.navAbout}</Link>
+                        <Link to="/namintax/about">{t.navAbout}</Link>
                     </li>
                     <li className="navbar-item">
-                        <Link to="/services">{t.navServices}</Link>
+                        <Link to="/namintax/services">{t.navServices}</Link>
                     </li>
                     <li className="navbar-item">
-                        <Link to="/contact">{t.navContact}</Link>
+                        <Link to="/namintax/contact">{t.navContact}</Link>
                     </li>
                     <li className="navbar-item">
                         <LanguageSwitcher />

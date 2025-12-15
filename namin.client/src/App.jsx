@@ -43,10 +43,10 @@ function App() {
                         zIndex: 1 // ensures content is above the background
                     }}>
                         <Routes>
-                            <Route path="/" element={<Home />} />
-                            <Route path="/about" element={<About />} />
-                            <Route path="/services" element={<Services />} />
-                            <Route path="/contact" element={<Contact />} />
+                            <Route path="/namintax/" element={<Home />} />
+                            <Route path="/namintax/about" element={<About />} />
+                            <Route path="/namintax/services" element={<Services />} />
+                            <Route path="/namintax/contact" element={<Contact />} />
                         </Routes>
                     </div>
                 </Router>
