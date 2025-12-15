@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "w8smCHN3icE1/+97S8UDrQ2HAfN01TCWzvY+zf33/Lg=",
+  "Source": "Namin.Server",
+  "BasePath": "_content/Namin.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\vsguhilo\\source\\website\\namintax\\namin.client\\namin.client.esproj",
+      "Version": 2,
+      "Source": "namin.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

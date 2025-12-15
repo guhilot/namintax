@@ -1,0 +1,26 @@
+# @Namin.Server_HostAddress = http://localhost:5031
+
+# GET {{Namin.Server_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+# ###
+
+
+@Namin.Server_HostAddress = http://localhost:5031
+
+GET {{Namin.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{Namin.Server_HostAddress}}/contact
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Doe",
+  "phone": "123-456-7890",
+  "message": "Hello, this is a test message."
+}
+
+###
