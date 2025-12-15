@@ -52,7 +52,7 @@ export default defineConfig({
                 target,
                 secure: false
             },
-            '^/contact': {
+            '^/namintax/contact': {
                 target,
                 secure: false
             }

@@ -41,7 +41,7 @@ function Contact() {
         setSubmitted(true);
 
         try {
-            await axios.post('/contact', {
+            await axios.post('/namintax/contact', {
                 name: form.name,
                 phone: form.phone,
                 message: form.message
