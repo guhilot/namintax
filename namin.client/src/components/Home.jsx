@@ -75,8 +75,8 @@ function Home() {
             </section>
 
             <div style={{ marginTop: '2rem', display: 'flex', gap: '1rem' }}>
-                <Link to="/services" style={{ color: '#007bff', textDecoration: 'underline' }}>{t.ourServices}</Link>
-                <Link to="/contact" style={{ color: '#007bff', textDecoration: 'underline' }}>{t.contactUs}</Link>
+                <Link to="/namintax/services" style={{ color: '#007bff', textDecoration: 'underline' }}>{t.ourServices}</Link>
+                <Link to="/namintax/contact" style={{ color: '#007bff', textDecoration: 'underline' }}>{t.contactUs}</Link>
             </div>
         </div>
     );

@@ -5,7 +5,8 @@ using System.Net;
 namespace Namin.Server.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    //[Route("[controller]")]
+    [Route("namintax/contact")]
     public class ContactController : Controller
     {
         [HttpPost]

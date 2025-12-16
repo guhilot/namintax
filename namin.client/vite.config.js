@@ -48,7 +48,7 @@ export default defineConfig({
     },
     server: {
         proxy: {
-            '^/weatherforecast': {
+            '^/namintax/weatherforecast': {
                 target,
                 secure: false
             },
